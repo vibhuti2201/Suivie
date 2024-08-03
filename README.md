@@ -44,7 +44,7 @@ Organizations can use the application to dispatch their troops to specific locat
 - Gps
 - Location Services
 
-## Developers✨
+## Developer
 
 
 <table>
