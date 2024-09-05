@@ -73,4 +73,4 @@ https://github.com/user-attachments/assets/aaaf5106-2ee8-45c6-854c-83b6c1a51731
 ![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)
 ![ForTheBadge ANDROID](https://forthebadge.com/images/badges/built-for-android.svg)
 ![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)
-![Built By Developers](https://forthebadge.com/images/badges/built-by-developers.svg)
+
